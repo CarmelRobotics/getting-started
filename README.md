@@ -19,3 +19,4 @@ You should see this. From here click on Select/Download VS Code and then Downloa
 ### Git
 
 Another program that is essential to our workflow is Git. The download can be found [here](https://git-scm.com/download/win). Once it’s downloaded just rapidly click through the setup until it gets to the install. The settings there only effect the command line git, which we do not use.
+
