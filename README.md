@@ -16,6 +16,8 @@ Click on ```compressed folder tools > extract all > extract``` then once it is d
 
 You should see this. From here click on Select/Download VS Code and then Download. After VS Code has downloaded all you need to do is click on execute install and it will install the rest of the WPILIB elements.
 
+![](https://github.com/CarmelRobotics/getting-started/blob/master/pics/wpi_installer.PNG)
+
 ### Git
 
 Another program that is essential to our workflow is Git. The download can be found [here](https://git-scm.com/download/win). Once it’s downloaded just rapidly click through the setup until it gets to the install. The settings there only effect the command line git, which we do not use.
