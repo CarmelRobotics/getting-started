@@ -10,13 +10,13 @@ The most essential thing you'll need to get started is the WPILIB Package, found
 
 Once it’s downloaded you’ll need to click on the file. It’ll open up in file explorer and you’ll see something similar to this.
 
-   ![](https://github.com/CarmelRobotics/getting-started/blob/master/pics/wpilib_zip1.png)
+![](https://github.com/CarmelRobotics/getting-started/blob/master/pics/wpilib_zip1.png)
 
 Click on ```compressed folder tools > extract all > extract``` then once it is done copying the file, double click on the executable in the newly opened window and click run on the security warning. Then click current user.
 
 You should see this. From here click on Select/Download VS Code and then Download. After VS Code has downloaded all you need to do is click on execute install and it will install the rest of the WPILIB elements.
 
-   ![](https://github.com/CarmelRobotics/getting-started/blob/master/pics/wpi_installer.PNG)
+![](https://github.com/CarmelRobotics/getting-started/blob/master/pics/wpi_installer.PNG)
 
 ### Git
 
@@ -32,7 +32,7 @@ If you would like to work on your robotics programming skills at home or want to
 ## Pulling, Committing, and Pushing
 Pulling is essentially saving code from a github repository onto your computer, specifically onto Visual Studio Code. First copy the URL of the repository by opening the desired repository and clicking the clone or download repository and copying the URL. 
 
-   ![](https://github.com/CarmelRobotics/getting-started/blob/master/pics/clone.PNG)
+![](https://github.com/CarmelRobotics/getting-started/blob/master/pics/clone.PNG)
 
 In order to pull, you will have to have Visual Studio Code opened and type Ctrl + Shift + P then type “Pull” and click on “Git: Pull”, then paste the URL and press enter.
 
