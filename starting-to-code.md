@@ -38,7 +38,7 @@ is regulated by the isFinished method which will call the end method if it retur
 command methods work and interact with each other. It will save you a lot of frustration in the future. 
 
 ## OI
-This stands for _O_bject _I_nterface. This is the class where you actually create the buttons that will call the commands that you 
+This stands for **O**bject **I**nterface. This is the class where you actually create the buttons that will call the commands that you 
 looked at earlier. The key to this class is to keep yourself organized when it comes to creating the button objects, as they can get 
 cluttered if you are not careful. It is also important to note that buttons cannot be created with the parameter value of 0. Button 
 mapping always starts at 1 because joysticks don't have a button 0. Make sure to read the green readme text provided in the OI class 
