@@ -11,7 +11,6 @@ The most essential thing you'll need to get started is the WPILIB Package, found
 Once it’s downloaded you’ll need to click on the file. It’ll open up in file explorer and you’ll see something similar to this.
 
 ![](https://github.com/CarmelRobotics/getting-started/blob/master/pics/wpilib_zip.PNG)
-
 Click on ```compressed folder tools > extract all > extract``` then once it is done copying the file, double click on the executable in the newly opened window and click run on the security warning. Then click current user.
 
 You should see this. From here click on Select/Download VS Code and then Download. After VS Code has downloaded all you need to do is click on execute install and it will install the rest of the WPILIB elements.
