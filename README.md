@@ -24,7 +24,7 @@ Another program that is essential to our workflow is Git. The download can be fo
 
 ## Cloning a Repository
 
-## Github
+### Github
 If you would like to work on your robotics programming skills at home or want to code in the robotics team, then setting up a github account is necessary. First you will need to go to github.com and sign up. From there all you will need to do is follow the site’s instructions for setting up an account. If you would like to become a member of the CarmelRobotics organization on Github, ask an owner of the organization in person or ask Clifford to invite you.
 
 ## Pulling, Committing, and Pushing
