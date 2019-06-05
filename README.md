@@ -20,3 +20,21 @@ You should see this. From here click on Select/Download VS Code and then Downloa
 
 Another program that is essential to our workflow is Git. The download can be found [here](https://git-scm.com/download/win). Once it’s downloaded just rapidly click through the setup until it gets to the install. The settings there only effect the command line git, which we do not use.
 
+Another program that is essential to our workflow is Git. The download can be found [here](https://git-scm.com/download/win). Once it’s downloaded just rapidly click through the setup until it gets to the install. The settings there only effect the command line git, which we do not use.
+
+## Cloning a Repository
+
+## Github
+If you would like to work on your robotics programming skills at home or want to code in the robotics team, then setting up a github account is necessary. First you will need to go to github.com and sign up. From there all you will need to do is follow the site’s instructions for setting up an account. If you would like to become a member of the CarmelRobotics organization on Github, ask an owner of the organization in person or ask Clifford to invite you.
+
+## Pulling, Committing, and Pushing
+Pulling is essentially saving code from a github repository onto your computer, specifically onto Visual Studio Code. First copy the URL of the repository by opening the desired repository and clicking the clone or download repository and copying the URL. 
+
+![](https://github.com/CarmelRobotics/getting-started/blob/master/pics/clone.PNG)
+
+In order to pull, you will have to have Visual Studio Code opened and type Ctrl + Shift + P then type “Pull” and click on “Git: Pull”, then paste the URL and press enter.
+
+Committing is essentially saving your code and preparing it for pushing which replaces the old code with your code on Github’s website. In order to commit, press Ctrl + Shift + P, then type “Commit”, click on “Git: Commit”, it will then require a message and explaining what you updated might be helpful, then press enter. Press Ctrl + Shift + P, then type “Push”, click the “Git: Push”.
+
+## Ready
+You are now ready to start coding. If you would like to learn Java go to [here](https://codecademy.com/learn/learn-java). Every year there is a new FRC API and getting the link to that will be necessary to know which methods you are able to call and use when coding.
