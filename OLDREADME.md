@@ -34,9 +34,9 @@ Cloning and pulling are very similar and essentially save code from a GitHub rep
 
 ![](https://github.com/CarmelRobotics/getting-started/blob/master/pics/clone.PNG)
 
-In order to pull, you will have to have Visual Studio Code opened and type Ctrl + Shift + P then type “Pull” and click on “Git: Pull”, then paste the URL and press enter.
+In order to clone, you will have to have Visual Studio Code opened and press CTRL + SHIFT + P to pull up the Command Palette then type "Clone" and click on `Git: Clone Repository`, then paste the URL and press enter.
 
-Committing is essentially saving your code and preparing it for pushing which replaces the old code with your code on GitHub’s website. In order to commit, press Ctrl + Shift + P, then type “Commit”, click on “Git: Commit”, it will then require a message and explaining what you updated might be helpful, then press enter. Press Ctrl + Shift + P, then type “Push”, click the “Git: Push”.
+In order to push your commits to Github pull up the command palette, then type “Push”, click the `Git: Push`.
 
 ## Ready
 You are now ready to start coding. If you would like to learn Java go to [here](https://codecademy.com/learn/learn-java). Every year there is a new FRC API and getting the link to that will be necessary to know which methods you are able to call and use when coding.
