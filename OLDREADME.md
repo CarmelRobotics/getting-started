@@ -33,11 +33,18 @@ Cloning and pulling are very similar and essentially save code from a GitHub rep
 In order to clone, you will have to have Visual Studio Code opened and press CTRL + SHIFT + P to pull up the Command Palette then type "Clone" and click on `Git: Clone Repository`, then paste the URL and press enter.
 
 Once you've made changes to the code of the robot you'll want to then save them so they can later be uploaded. To do this you can go to the source control tab in Visual Studio Code.
+
 ![](./pics/versionControlCapture.PNG)
+
+Once you're in this tab you'll see something like this:
+
+![](./pics/gitTab.PNG)
+
+You'll want to press on the plus that pops up when you hover over the file (in this case example.txt) which will "stage" your file. Write a comment into the message box that describes what you've done so far.
 
 In order to upload your commits to Github pull up the command palette, then type “Push”, and click `Git: Push`. This will come up with an error if there are any conflicts on the github, so be careful to not work on the same branch as someone else at the same time!
 
 
 
 ## Ready to Code
-You are now ready to start coding the robot. From here, if you aren't familiar with Java you can use [CodeCademy](https://www.codecademy.com/learn/learn-java) to get the basics down. If you have any questions, ask the more senior members. Have fun!
+You are now ready to start coding the robot. From here, if you aren't familiar with Java you can use [CodeCademy](https://www.codecademy.com/learn/learn-java) to get the basics down. From there if you have any questions, just ask the more senior members. Have fun!
