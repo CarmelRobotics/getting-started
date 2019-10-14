@@ -40,7 +40,7 @@ Once you're in this tab you'll see something like this:
 
 ![](./pics/gitTab.PNG)
 
-You'll want to press on the plus that pops up when you hover over the file (in this case example.txt) which will "stage" your file. Write a comment into the message box that describes what you've done so far.
+You'll want to press on the plus that pops up when you hover over the file (in this case example.txt) which will "stage" your file. Write a comment into the message box that describes what you've done so far, and press the check to commit it.
 
 In order to upload your commits to Github pull up the command palette, then type “Push”, and click `Git: Push`. This will come up with an error if there are any conflicts on the github, so be careful to not work on the same branch as someone else at the same time!
 
