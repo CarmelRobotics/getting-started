@@ -32,7 +32,8 @@ Cloning and pulling are very similar and essentially save code from a GitHub rep
 
 In order to clone, you will have to have Visual Studio Code opened and press CTRL + SHIFT + P to pull up the Command Palette then type "Clone" and click on `Git: Clone Repository`, then paste the URL and press enter.
 
-In order to push your commits to Github pull up the command palette, then type “Push”, click the `Git: Push`.
+In order to push your commits to Github pull up the command palette, then type “Push”, and click
+`Git: Push`.
 
 ## Ready to Code
 You are now ready to start coding the robot. From here, if you aren't familiar with Java you can use [CodeCademy](https://www.codecademy.com/learn/learn-java) to get the basics down. If you have any questions, ask the more senior members. Have fun!
