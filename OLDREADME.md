@@ -12,7 +12,7 @@ Once it’s downloaded you’ll need to click on the file. It’ll open up in fi
 
 ![](https://github.com/CarmelRobotics/getting-started/blob/master/pics/wpilib_zip1.png)
 
-Click on ```compressed folder tools > extract all > extract``` then once it is done copying the file, double click on the executable in the newly opened window and click run on the security warning. Then click current user.
+Click on `compressed folder tools > extract all > extract` then once it is done copying the file, double click on the executable in the newly opened window and click run on the security warning. Then click current user.
 
 You should see this. From here click on Select/Download VS Code and then Download. After VS Code has downloaded all you need to do is click on execute install and it will install the rest of the WPILIB elements.
 
@@ -22,11 +22,7 @@ You should see this. From here click on Select/Download VS Code and then Downloa
 
 Another program that is essential to our workflow is Git. The download can be found [here](https://git-scm.com/download/win). Once it’s downloaded just rapidly click through the setup until it gets to the install. The settings there only affect the command line git, which we do not use.
 
-Another program that is essential to our workflow is Git. The download can be found [here](https://git-scm.com/download/win). Once it’s downloaded just rapidly click through the setup until it gets to the install. The settings there only affect the command line git, which we do not use.
-
-## Cloning a Repository
-
-### GitHub
+## GitHub
 If you would like to work on your robotics programming skills at home or want to code in the robotics team, then setting up a GitHub account is necessary. First you will need to go to github.com and sign up. From there all you will need to do is follow the site’s instructions for setting up an account. If you would like to become a member of the CarmelRobotics organization on GitHub, ask an owner of the organization in person or ask Clifford to invite you.
 
 ### Cloning, Pulling, Committing, and Pushing
@@ -38,5 +34,5 @@ In order to clone, you will have to have Visual Studio Code opened and press CTR
 
 In order to push your commits to Github pull up the command palette, then type “Push”, click the `Git: Push`.
 
-## Ready
-You are now ready to start coding. If you would like to learn Java go to [here](https://codecademy.com/learn/learn-java). Every year there is a new FRC API and getting the link to that will be necessary to know which methods you are able to call and use when coding.
+## Ready to Code
+You are now ready to start coding the robot. From here, if you aren't familiar with Java you can use [CodeCademy](https://www.codecademy.com/learn/learn-java) to get the basics down. If you have any questions, ask the more senior members. Have fun!
