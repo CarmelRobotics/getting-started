@@ -1,5 +1,7 @@
 # Starting with GitHub
 
+If you have not read the README and set up Visual Studio and GIT already, please do that.
+
 If you would like to work on your robotics programming skills at home or want to code in the robotics team, then setting up a GitHub account is necessary. First you will need to go to github.com and sign up. From there all you will need to do is follow the site’s instructions for setting up an account. If you would like to become a member of the CarmelRobotics organization on GitHub, ask an owner of the organization in person or ask Clifford to invite you.
 
 Here are instructions on how to fork, clone, commit, push, and pull using GitHub.
